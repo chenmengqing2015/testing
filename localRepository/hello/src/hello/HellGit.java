@@ -17,7 +17,7 @@ public class HellGit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.print("I am coming ,Git.");
+		System.out.print("I am coming ,Git.hi");
 
 	}
 
